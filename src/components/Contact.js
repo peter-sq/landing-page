@@ -159,17 +159,17 @@ const Contact = () => {
         <AddressContainer>
           <AddressItem>
             <Icon src={Map} />
-            <Text>123 Park Avenue St., New York, USA</Text>
+            <Text>Lagos State Nigeria.</Text>
           </AddressItem>
           <AddressItem>
             <Icon src={Phone} />
-            <Text>+1 631 1234 5678</Text>
-            <Text>+1 326 1234 5678</Text>
+            <Text>08078312876,</Text>
+            <Text>09049522077</Text>
           </AddressItem>
           <AddressItem>
             <Icon src={Send} />
-            <Text>contact@lama.dev</Text>
-            <Text>sales@lama.dev</Text>
+            <Text>awe.petersq@gmail.com,</Text>
+            <Text>petvot.group@gmail.com</Text>
           </AddressItem>
         </AddressContainer>
       </Wrapper>
